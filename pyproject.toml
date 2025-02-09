@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 aiogram = "^3.17.0"
 yt-dlp = "^2025.1.26"
+pydantic-settings = "^2.7.1"
 
 
 [build-system]
